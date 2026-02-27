@@ -1,3 +1,5 @@
+## 🇯🇵 日本語
+
 ```java
 /**
  * ╔═══════════════════════════════════════════════════╗
@@ -27,14 +29,14 @@ public class Cyrne1 extends Creater implements CuriousPerson {
     private final String   bio        = "よろしく〜！いろいろなことが好きです。";
 
     // ──────── Interests ────────
-    private final String   interests  = "いろいろなことに興味あり！ 🌏";
+    private final String   interests  = "いろいろなことに興味あり！";
 
     // ──────── Links ────────
     public Map<String, String> getSocialLinks() {
         return Map.of(
-            "🌐 Website",    "https://cyrne1.net",
-            "🐦 X(Twitter)", "https://x.com/fafrotski_es",
-            "📧 Contact",    "mailto:contact@cyrne1.net"
+            "Website",  "https://cyrne1.net",
+            "X",        "https://x.com/fafrotski_es",
+            "Contact",  "mailto:contact@cyrne1.net"
         );
     }
 
@@ -47,22 +49,15 @@ public class Cyrne1 extends Creater implements CuriousPerson {
 
 <div align="center">
 
-### 🔗 Links
-
 [![Website](https://img.shields.io/badge/Website-cyrne1.net-222222?style=for-the-badge&logo=googlechrome&logoColor=white)](https://cyrne1.net)
 [![X](https://img.shields.io/badge/@fafrotski__es-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/fafrotski_es)
 [![Email](https://img.shields.io/badge/Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@cyrne1.net)
-
----
-
-<sub>// new Cyrne1().start(); — Thanks for visiting! 🙌</sub>
 
 </div>
 
 ---
 
-<details>
-<summary>🇬🇧 English Version</summary>
+## 🇬🇧 English
 
 ```java
 /**
@@ -93,14 +88,14 @@ public class Cyrne1 extends Creater implements CuriousPerson {
     private final String   bio        = "Hey there! I love all sorts of things.";
 
     // ──────── Interests ────────
-    private final String   interests  = "Curious about everything! 🌏";
+    private final String   interests  = "Curious about everything!";
 
     // ──────── Links ────────
     public Map<String, String> getSocialLinks() {
         return Map.of(
-            "🌐 Website",    "https://cyrne1.net",
-            "🐦 X(Twitter)", "https://x.com/fafrotski_es",
-            "📧 Contact",    "mailto:contact@cyrne1.net"
+            "Website",  "https://cyrne1.net",
+            "X",        "https://x.com/fafrotski_es",
+            "Contact",  "mailto:contact@cyrne1.net"
         );
     }
 
@@ -117,6 +112,8 @@ public class Cyrne1 extends Creater implements CuriousPerson {
 [![X](https://img.shields.io/badge/@fafrotski__es-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/fafrotski_es)
 [![Email](https://img.shields.io/badge/Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@cyrne1.net)
 
-</div>
+---
 
-</details>
+<sub>// new Cyrne1().start(); — Thanks for visiting!</sub>
+
+</div>
