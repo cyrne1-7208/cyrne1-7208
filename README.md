@@ -1,4 +1,4 @@
-## 🇯🇵 日本語
+## 日本語
 
 ```java
 /**
@@ -57,7 +57,7 @@ public class Cyrne1 extends Creater implements CuriousPerson {
 
 ---
 
-## 🇬🇧 English
+## English
 
 ```java
 /**
